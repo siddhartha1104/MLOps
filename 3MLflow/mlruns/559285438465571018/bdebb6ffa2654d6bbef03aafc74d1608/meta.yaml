@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/559285438465571018/bdebb6ffa2654d6bbef03aafc74d1608/artifacts
+end_time: 1756140421456
+entry_point_name: ''
+experiment_id: '559285438465571018'
+lifecycle_stage: active
+run_id: bdebb6ffa2654d6bbef03aafc74d1608
+run_name: worried-grouse-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756140421181
+status: 3
+tags: []
+user_id: sidx

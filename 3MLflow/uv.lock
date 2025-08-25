@@ -17,6 +17,7 @@ dependencies = [
     { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.11'" },
     { name = "numpy", version = "2.3.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11'" },
     { name = "pandas" },
+    { name = "scikit-learn" },
 ]
 
 [package.metadata]
@@ -25,6 +26,7 @@ requires-dist = [
     { name = "mlflow", specifier = ">=3.3.1" },
     { name = "numpy", specifier = ">=2.2.6" },
     { name = "pandas", specifier = ">=2.3.2" },
+    { name = "scikit-learn", specifier = ">=1.7.1" },
 ]
 
 [[package]]
